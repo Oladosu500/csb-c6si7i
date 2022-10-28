@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "https://oladosu500.github.io/csb-c6si7i/static/css/main.2f52a557.chunk.css",
-    "main.js": "https://oladosu500.github.io/csb-c6si7i/static/js/main.fcdbc053.chunk.js",
-    "main.js.map": "https://oladosu500.github.io/csb-c6si7i/static/js/main.fcdbc053.chunk.js.map",
+    "main.js": "https://oladosu500.github.io/csb-c6si7i/static/js/main.a48deaae.chunk.js",
+    "main.js.map": "https://oladosu500.github.io/csb-c6si7i/static/js/main.a48deaae.chunk.js.map",
     "runtime-main.js": "https://oladosu500.github.io/csb-c6si7i/static/js/runtime-main.3cac33cf.js",
     "runtime-main.js.map": "https://oladosu500.github.io/csb-c6si7i/static/js/runtime-main.3cac33cf.js.map",
-    "static/js/2.6baab5e0.chunk.js": "https://oladosu500.github.io/csb-c6si7i/static/js/2.6baab5e0.chunk.js",
-    "static/js/2.6baab5e0.chunk.js.map": "https://oladosu500.github.io/csb-c6si7i/static/js/2.6baab5e0.chunk.js.map",
+    "static/js/2.174e7eaa.chunk.js": "https://oladosu500.github.io/csb-c6si7i/static/js/2.174e7eaa.chunk.js",
+    "static/js/2.174e7eaa.chunk.js.map": "https://oladosu500.github.io/csb-c6si7i/static/js/2.174e7eaa.chunk.js.map",
     "index.html": "https://oladosu500.github.io/csb-c6si7i/index.html",
     "static/css/main.2f52a557.chunk.css.map": "https://oladosu500.github.io/csb-c6si7i/static/css/main.2f52a557.chunk.css.map",
-    "static/js/2.6baab5e0.chunk.js.LICENSE.txt": "https://oladosu500.github.io/csb-c6si7i/static/js/2.6baab5e0.chunk.js.LICENSE.txt"
+    "static/js/2.174e7eaa.chunk.js.LICENSE.txt": "https://oladosu500.github.io/csb-c6si7i/static/js/2.174e7eaa.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.3cac33cf.js",
-    "static/js/2.6baab5e0.chunk.js",
+    "static/js/2.174e7eaa.chunk.js",
     "static/css/main.2f52a557.chunk.css",
-    "static/js/main.fcdbc053.chunk.js"
+    "static/js/main.a48deaae.chunk.js"
   ]
 }
